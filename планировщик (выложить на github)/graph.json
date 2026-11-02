@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "002982faa83441d2a1f5cf4b095fe4c2",
+      "title": "Друзья",
+      "parent_id": null,
+      "x": 1228.95,
+      "y": -79.18
+    },
+    {
+      "id": "0fb701b619a648deb917d02eb88a0a86",
+      "title": "Савелий",
+      "parent_id": "002982faa83441d2a1f5cf4b095fe4c2",
+      "x": 1155.41,
+      "y": 9.7
+    },
+    {
+      "id": "85e7511b06ba40a79d192c17d0f71b5f",
+      "title": "Захар",
+      "parent_id": "002982faa83441d2a1f5cf4b095fe4c2",
+      "x": 1305.45,
+      "y": 1.29
+    },
+    {
+      "id": "f2fec576c487445e8bda5d0cf5ccd5c1",
+      "title": "люьит играть в майнкрафт",
+      "parent_id": "0fb701b619a648deb917d02eb88a0a86",
+      "x": 1104.39,
+      "y": 132.91
+    }
+  ]
+}
